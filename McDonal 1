@@ -1,0 +1,6 @@
+a=int(input())
+for a in range(0,a):
+    b=int(input())
+    c=98+(98*0.18)
+    print(b*c)
+    
