@@ -1,0 +1,1 @@
+#Wap using function to find the si of principle amount enter            
